@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/teeos-raspberry-pi-image-builder-240054-240063/frontend_reactjs"
+}
